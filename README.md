@@ -3,7 +3,7 @@
 
 #### My name is Maxim, I am `current_year-2002` y.o. 
 
-#### Software Engineer and Swift ios developer, based in Moscow.
+#### Software Engineer and Swift iOS developer, based in Moscow.
 
 ---
 
@@ -21,3 +21,8 @@
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/vip933)
 [![VK](https://img.shields.io/badge/VK-4b74a2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/vip933)
 [![Instagram](https://img.shields.io/badge/Instagram-fd5342?logo=instagram&style=for-the-badge&logoColor=fff)](https://www.instagram.com/maverick_free)
+
+---
+
+### Statistic:
+![Metrics](https://metrics.lecoq.io/vip933?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base.indepth=false&base.hireable=false&isocalendar.duration=year&config.timezone=Etc%2FGMT-3)
